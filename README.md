@@ -2,7 +2,7 @@
 
 I am a keen technologist with a depth of experience in developing highly used web applications across many industries including: food delivery, automotive, finance & productivity
 
-Here's a list of my skills for the purposes of SEO:
+Here's a list of my skills. I'm always happy to learn new stuff 🛰️
 
 Ruby, Rails, Sidekiq, Kafka, GRPC, Protobuf, Python, Clojure, Node.js, Typescript, JavaScript, React, Ember, AWS(Aurora, S3, Lambda, Beanstalk, IAM, Cloudwatch, API Gateway), Terraform, HTML, CSS, API design, design patterns.
 
