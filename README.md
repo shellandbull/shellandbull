@@ -10,7 +10,7 @@ Ruby, Rails, Sidekiq, Kafka, GRPC, Protobuf, Python, Clojure, Node.js, Typescrip
 
 - 🔭 I’m currently working on expanding my data science and AI/ML knowledge with [Scicloj](https://scicloj.github.io/)
 - 👯 I’m looking to collaborate on OSS Ruby, Clojure, Python & Node.js(Typescript's invited too)
-- 🤔 I’m looking for help with finding my next role! I am available for remote work or hybrid positions
+- 🤔 I’m looking for help finding my next role! I am available for remote work or hybrid positions
 - 🇬🇧 I'm based in London, United Kingdom
 - 💬 Ask me about Ruby on Rails, SRE, API development, design patterns, software architechture
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mario-gintili-software-engineer/) | [Calendly](https://calendly.com/mariojgintili/30min)
