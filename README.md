@@ -17,4 +17,4 @@ Ruby, Rails, Sidekiq, Kafka, GRPC, Protobuf, Python, Clojure, Node.js, Typescrip
 - 😄 Pronouns: He/Him
 - 🤩 Fun facts
   - I 🫀 cats
-  - My hobbies include: videogames 🎮 weight lifting 🏋️‍♂️ food 🍔 good reads 🔖
+  - My hobbies include: videogames 🎮 weight lifting 🏋️‍♂️ food 🍔 good reads 🔖 art history 🎨
