@@ -14,7 +14,6 @@ Ruby, Rails, Sidekiq, Kafka, GRPC, Protobuf, Python, Clojure, Node.js, Typescrip
 - 🇬🇧 I'm based in London, United Kingdom
 - 💬 Ask me about Ruby on Rails, SRE, API development, design patterns, software architechture
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mario-gintili-software-engineer/) | [Calendly](https://calendly.com/mariojgintili/30min)
-- 😄 Pronouns: He/Him
 - 🤩 Fun facts
   - I 🫀 cats
   - My hobbies include: videogames 🎮 weight lifting 🏋️‍♂️ food 🍔 good reads 🔖 art history 🎨
