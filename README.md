@@ -2,9 +2,15 @@
 
 I am a keen technologist with a depth of experience in developing highly used web applications across many industries including: food delivery, automotive, finance & productivity
 
-I'm always happy to learn new stuff 🛰️ But here's a list of technologies I have worked with in the past
+I'm always happy to learn new tech 🛰️
+
+Here's a list of technologies I have worked with
 
 Ruby, Rails, Sidekiq, Kafka, GRPC, Protobuf, Python, Clojure, Node.js, Typescript, JavaScript, React, Ember, AWS(Aurora, S3, Lambda, Beanstalk, IAM, Cloudwatch, API Gateway), Terraform, HTML, CSS, API design, design patterns.
+
+- Featured on the [Financial Times](https://www.ft.com/content/fbb5ece2-a841-11e3-a946-00144feab7de)
+- Member of the [Seedcamp family](https://seedcamp.com/)
+- Conference speaker. Check out my talk at the [London Ruby user group](https://lrug.org/) on [how to use LLMs for better observability](https://lrug.org/meetings/2025/april/)
 
 **Fancy learning more about my services? [Meet me over video](https://calendly.com/mariojgintili/30min)**
 
