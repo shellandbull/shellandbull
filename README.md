@@ -14,7 +14,6 @@ Ruby, Rails, Sidekiq, Kafka, GRPC, Protobuf, Python, Clojure, Node.js, Typescrip
 
 **Fancy learning more about my services? [Meet me over video](https://calendly.com/mariojgintili/30min)**
 
-- 🔭 I’m currently working on expanding my data science and AI/ML knowledge with [Scicloj](https://scicloj.github.io/)
 - 👯 I’m looking to collaborate in Open Source. Wether it's Ruby, Clojure, Python & JavaScript in all its flavours
 - ⭐ I am available for remote work or hybrid positions
 - 🇬🇧 I'm based in London, United Kingdom
