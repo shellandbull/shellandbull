@@ -14,9 +14,9 @@ Ruby, Rails, Sidekiq, Kafka, GRPC, Protobuf, Python, Clojure, Node.js, Typescrip
 
 **Fancy learning more about my services? [Meet me over video](https://calendly.com/mariojgintili/30min)**
 
-- 👯 I’m looking to collaborate in Open Source. Wether it's Ruby, Clojure, Python & JavaScript in all its flavours
+- 👯👯 I’m seeking collabs in Open Source. Wether it's Ruby, Clojure, Python & JavaScript in all its flavours
 - ⭐ I am available for remote work or hybrid positions
-- 🇬🇧 I'm based in London, United Kingdom
+- 🇵🇱 I'm based in Poland
 - 💬 Ask me about Ruby on Rails, SRE, API development, design patterns, software architechture
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mario-gintili-software-engineer/) | [Calendly](https://calendly.com/mariojgintili/30min)
 - 🤩 Fun facts
